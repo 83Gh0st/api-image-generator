@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+diffusers
+transformers
+torch
+torchvision
+Pillow
